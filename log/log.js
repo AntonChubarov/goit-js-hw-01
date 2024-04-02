@@ -1,3 +1,5 @@
+'use strict';
+
 (function() {
   var oldLog = console.log;
   var outputDiv = document.getElementById('console-output');
